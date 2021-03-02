@@ -1,0 +1,15 @@
+{
+  "name": "domino-assistant",
+  "version": "1.0.0",
+  "description": "App thats helps user to learn how to play dominoes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "henriqueyun",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
